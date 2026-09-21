@@ -1,0 +1,3 @@
+Project: CH3Plus Clean-Room Web Template
+Author: Techasit904
+GitHub-ready starter repository.
